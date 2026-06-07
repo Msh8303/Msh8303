@@ -3,8 +3,8 @@
 
 <p align="left">
   <a href="mailto:Mshabestari8303p@gmail.com"><img src="https://img.shields.io/badge/Email-Mshabestari8303p%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/mohammad-amin-m-shabestari"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://telegram.me/msh83030"><img src="https://img.shields.io/badge/Telegram-msh83030-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="www.linkedin.com/in/mohammadamin-shabestari"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://telegram.me/msh83030p"><img src="https://img.shields.io/badge/Telegram-msh83030-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
 ---
