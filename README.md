@@ -2,7 +2,7 @@
 ### Artificial Intelligence & Computer Vision Engineer | R&D Researcher
 
 <p align="left">
-  <a href="mailto:shabestari8303p@gmail.com"><img src="https://img.shields.io/badge/Email-Mshabestari8303p%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:shabestari8303p@gmail.com"><img src="https://img.shields.io/badge/Email-shabestari8303p%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="www.linkedin.com/in/mohammadamin-shabestari"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://telegram.me/msh83030p"><img src="https://img.shields.io/badge/Telegram-msh83030p-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
